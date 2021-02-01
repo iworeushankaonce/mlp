@@ -27,27 +27,30 @@ git clone https://github.com/iworeushankaonce/mlp.git
 ```
 
 ## Future features
-1. MLP class with arbitrary layers
-2. Implement important activation functions 
-  1. 'Leaky ReLU';
-  2. 'ELU'; 
-  3. 'linear'; 
-  4. 'softmax';
-  5. 'sigmoid'. 
-3. Implement important loss functions 
-  1. 'binary_crossentropy';
-  2. 'sparse_categorical_crossentropy';
-  3. 'categorical_crossentropy';
-  4. 'MSE';
-  5. 'MAE'.
-4. Allow usage of GD, Batch GD, Nesterov Accelerated Gradient, Momentum
-5. Provide 'try-it-yourself' Notebook with famous XOR example
+1. [ ] MLP class with arbitrary layers
+2. [ ] Implement important activation functions 
+  * [ ] 'Leaky ReLU';
+  * [ ] 'ELU'; 
+  * [ ] 'linear'; 
+  * [ ] 'softmax';
+  * [ ] 'sigmoid'. 
+3. [ ] Implement important loss functions 
+  * [ ] 'binary_crossentropy';
+  * [ ] 'sparse_categorical_crossentropy';
+  * [ ] 'categorical_crossentropy';
+  * [ ] 'MSE';
+  * [ ] 'MAE'.
+4. [ ] Allow usage of GD, Batch GD, Nesterov Accelerated Gradient, Momentum
+5. [ ] Provide 'try-it-yourself' Notebook with famous XOR example
 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Sources and Useful Literature
+* 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
